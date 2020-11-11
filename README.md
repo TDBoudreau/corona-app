@@ -12,8 +12,7 @@ Dependencies: axios chart.js react-chartjs-2 react-countup classnames @material-
 ## Project Setup
 
 ```
-npm install --save axios react-chartjs-2 react-countup classnames chart.js
-```
+npm install
 
 ## Run Locally
 
